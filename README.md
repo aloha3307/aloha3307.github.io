@@ -1,2 +1,5 @@
-# aloha3307.github.io
-aloha3307's personal website
+# 各位朋友大家好 我是aloha
+
+-----
+
+aloha3307's 個人網站 感謝 github
